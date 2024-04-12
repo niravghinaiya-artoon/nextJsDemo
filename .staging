@@ -1,9 +1,9 @@
 MONGODB_URL=mongodb+srv://niravPatel:a3RwmL8NThwwk41L@nextjsdemo.bhnojuz.mongodb.net/nextJsDemo?retryWrites=true&w=majority
 NODE_JS_SECRETE_KEY=JWTPRIVATEKEY
 
-NEXTAUTH_URL=http://localhost:8001
+NEXTAUTH_URL=https://next333.netlify.app
 NEXTAUTH_SECRET=secret
-NEXT_APP_END_POINT=http://localhost:8001/api/
+NEXT_APP_END_POINT=https://next333.netlify.app/api/
 
 GOOGLE_CLIENT_ID=568407185240-ji17f9tsd68djqvbp2i4frohvrv6u452.apps.googleusercontent.com
 GOOGLE_CLIENT_SECRET=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
