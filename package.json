@@ -8,6 +8,7 @@
     "stage": "env-cmd -f .staging next dev -p 8001",
     "build": "next build",
     "build:development": "env-cmd -f .development next build",
+    "build:stag": "env-cmd -f .staging next build",
     "start": "next start",
     "lint": "next lint"
   },
