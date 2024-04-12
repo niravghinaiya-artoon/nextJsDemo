@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "_authentication";
+@import "_common";
+@import "_general";
+@import "_adminLayout";
